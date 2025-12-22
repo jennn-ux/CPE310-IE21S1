@@ -1,15 +1,36 @@
-# CPE310-IE21S1
-fundamentals of Data Science
+# HELLO! 👋
 
-# ABOUT ME
-Hello, I'm Jen! A second year Industrial student. 
+<img align="right"
+     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=300&lines=Welcome+to+my+GitHub;Data+Science" />
 
-# MUSIC
-https://github.com/user-attachments/assets/e3e7b0d9-e0e2-4d0b-a5c4-f3cbfa5947ae
-I combine the vinyl video and music that I get from the TikTok app.
+Welcome to my GitHub profile!  
+I'm an **Industrial Engineering** student learning programming for my **Data Science** course.
 
-# EXPECTATION
-This course will probably be tough, especially since I'll need to use new ideas and methods. But just like with my experience in C++ programming, I’m sure that I’ll not only face the challenge but also enjoy the process. I'm excited to learn and improve, knowing that the hard work will pay off and make everything worth it.
+
+
+
+---
+
+## ABOUT ME 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6f24fbfa-ac3a-427a-acf2-730ce96323e2" width="260" />
+</p>
+
+- 🎓 Student learning programming and technology  
+- 💻 Experience with **C++**  
+- 🌱 Always eager to learn new tools and ideas  
+- 🚀 Motivated to grow and improve
+
+---
+
+## EXPECTATION 📘
+
+This course may be challenging, especially since it introduces new ideas and methods.  
+However, based on my experience with C++ programming, I’m confident that I can face these challenges and enjoy the learning process.
+
+I’m excited to improve my skills, gain new knowledge, and put in the hard work knowing that it will all be worth it in the end.
+
 
 
 ⠀⠀⠀⠀⠀⠀
